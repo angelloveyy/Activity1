@@ -1,0 +1,24 @@
+body {
+    font-family: 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Set a background color for the entire page */
+    color: #333; /* Set the default text color */
+}
+
+#about {
+    margin: 20px;
+    background-color: #ccc; /* Set a light gray background color for the section */
+    padding: 20px;
+    border-radius: 8px; /* Add some rounded corners for a cleaner look */
+}
+
+h2 {
+    color: #333; /* Set a dark gray color for the heading */
+}
+
+p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+    color: #333; /* Set a dark gray color for the paragraphs */
+}
